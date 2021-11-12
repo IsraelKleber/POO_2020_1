@@ -1,2 +1,2 @@
-language = "bash"
-run = ""
+language = "csharp"
+run = "mcs -out:main.exe 'Lista 03/1009 - Salário com Bônus.cs' ; mono main.exe"
