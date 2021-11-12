@@ -8,5 +8,6 @@ public class Program {
     double vendas = double.Parse(Console.ReadLine());
     double total = (vendas * 15.0 / 100.0) + salario;
     Console.WriteLine($"TOTAL = R$ {total:0.00}");
+    jhd
   }
 }
